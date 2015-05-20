@@ -6,12 +6,8 @@ See http://signal.twilio.com/hackpack
 
 ## Requirements
 
-### Arduino Particle System
+Arduino Particle System: https://github.com/giladaya/arduino-particle-sys
 
-* Clone this repo into the Ardunio libraries directory
-
-https://github.com/giladaya/arduino-particle-sys
-
-* Install these dependencies: Adafruit_NeoPixel, Adafruit_GFX, Adafruit_NeoMatrix
+Install these dependencies: Adafruit_NeoPixel, Adafruit_GFX, Adafruit_NeoMatrix
 
 
